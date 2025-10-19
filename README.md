@@ -315,8 +315,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@TheYash08](https://github.com/TheYash08)
 
 ## 🙏 Acknowledgments
 
@@ -331,7 +330,7 @@ If you encounter any issues or have questions:
 
 1. Check the [Issues](https://github.com/yourusername/expense-tracker/issues) page
 2. Create a new issue with detailed description
-3. Contact: your.email@example.com
+3. Contact: patelyash.7371@gmail.com
 
 ---
 
