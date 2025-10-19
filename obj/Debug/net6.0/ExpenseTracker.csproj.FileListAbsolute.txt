@@ -68,3 +68,4 @@ D:\Fuddu UTU\SEM 5\.net\ExpenseTracker\ExpenseTracker\obj\Debug\net6.0\refint\Ex
 D:\Fuddu UTU\SEM 5\.net\ExpenseTracker\ExpenseTracker\obj\Debug\net6.0\ExpenseTracker.pdb
 D:\Fuddu UTU\SEM 5\.net\ExpenseTracker\ExpenseTracker\obj\Debug\net6.0\ExpenseTracker.genruntimeconfig.cache
 D:\Fuddu UTU\SEM 5\.net\ExpenseTracker\ExpenseTracker\obj\Debug\net6.0\ref\ExpenseTracker.dll
+D:\Fuddu UTU\SEM 5\.net\ExpenseTracker\ExpenseTracker\obj\Debug\net6.0\ExpenseTracker.sourcelink.json
