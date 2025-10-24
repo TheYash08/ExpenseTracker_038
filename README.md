@@ -24,6 +24,8 @@ A modern, full-featured expense tracking application built with **ASP.NET Core 6
 ## 📸 Screenshots
 
 ### Dashboard
+<img width="1919" height="1079" alt="Screenshot 2025-10-24 103400" src="https://github.com/user-attachments/assets/f274130e-770c-4043-8fb7-cea122245921" />
+
 ![Dashboard](https://via.placeholder.com/800x400/4f46e5/ffffff?text=Dashboard+Screenshot)
 
 ### Expense List
